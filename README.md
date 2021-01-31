@@ -1,4 +1,4 @@
-# django
+# Django Project
 SIMPLE PASSWORD GENERATOR
 
 # Screenshot: 
