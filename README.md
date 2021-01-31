@@ -1,7 +1,8 @@
 # django
 SIMPLE PASSWORD GENERATOR
 
-# Screenshot: https://github.com/shankarsundaram/django/blob/master/simplepasswordgenerator.PNG
+# Screenshot: 
+https://github.com/shankarsundaram/django/blob/master/simplepasswordgenerator.PNG
 
 # How to Run
 Clone this Repo
